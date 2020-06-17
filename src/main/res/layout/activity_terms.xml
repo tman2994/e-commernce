@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.TermsActivity">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Terms and Conditons"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="364dp"
+        android:layout_height="619dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="15dp"
+        android:text="The software, materials and assistance provided by iubenda have the only purpose of helping users with compliance regarding their legal requirements. In particular, the templates iubenda provides are generated automatically, yet every word of our template has been written and continuously revised by a skilled legal team. However, as can be easily understood, nothing can substitute a professional legal consultancy in the drafting of your privacy policy, cookie policy or of any other legal document or compliance procedure. Our service does its best to provide you with a starting point, like an extremely sophisticated templates book, but even if we strive to provide the best assistance possible, we cannot guarantee any conformity with the law, which only a lawyer can do. Nothing on this site, therefore, shall be considered legal advice and no attorney-client relationship is established. Please note that in some cases, depending on your legislation, further actions may be required to make your activity compliant with the law.  "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+</androidx.constraintlayout.widget.ConstraintLayout>

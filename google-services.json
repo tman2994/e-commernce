@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822207857109",
+    "firebase_url": "https://safika-health-shop.firebaseio.com",
+    "project_id": "safika-health-shop",
+    "storage_bucket": "safika-health-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822207857109:android:d82d38c8126a9ce2203d5c",
+        "android_client_info": {
+          "package_name": "com.example.shop.safika_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822207857109-7lvk8p26g9crn4g1anld1eebin6sbj2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop.safika_health",
+            "certificate_hash": "0a24b8996cb6cc7f6067e4d19ef5181eec06bb27"
+          }
+        },
+        {
+          "client_id": "822207857109-5t3j7565tpqervbe5n0n1skleg19fpi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvM9oZz7ndLw5k7R2iKXzfs8H97rIJQ-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822207857109-5t3j7565tpqervbe5n0n1skleg19fpi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
